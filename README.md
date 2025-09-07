@@ -6,9 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 Gen
 
-<p align="center">
-  <img src="outputs/gallery/FIRCDERRPVLD.png" alt="Example render of a 2D polynomial attractor" width="520">
-</p>
 
 ---
 
