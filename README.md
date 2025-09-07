@@ -1,2 +1,17 @@
-# generative_art
-Here i keep all the code for my lovely attractors!
+# Generative art 
+
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+![NumPy](https://img.shields.io/badge/NumPy-enabled-informational)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-renderer-informational)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+Gen
+
+<p align="center">
+  <img src="outputs/gallery/FIRCDERRPVLD.png" alt="Example render of a 2D polynomial attractor" width="520">
+</p>
+
+---
+
+## What is this?
+
+This is a repo containing scripts to generate attractors!
